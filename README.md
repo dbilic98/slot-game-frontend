@@ -21,3 +21,4 @@
 - **Glavni izbornik uključujući postavke, informacije o igri i povijest rundi** 
 - **Zvuk i animacije**
 
+
