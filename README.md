@@ -2,7 +2,6 @@
 
 
 ## Tehnologije
-- **Java**  
 
 - **Pixi.js**  
 - **GSAP**  
