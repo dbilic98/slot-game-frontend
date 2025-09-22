@@ -1,11 +1,13 @@
 Frontend - Slot igra - Crazy Pirate
 
-Tehnologije
+Tehnologije:
+
 Pixi.js
 GSAP
 Vue.js
 
-Funkcionalnosti i značajke
+Funkcionalnosti i značajke:
+
 Mreža: 4 stupca x 3 retka (4x3)
 Isplatne linije: 20 fiksnih isplatnih linija
 Osnovna igra: Mehanika vrtnje s procjenom pobjede
