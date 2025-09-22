@@ -1,4 +1,4 @@
-## Frontend - Slot igra - Crazy Pirate
+## Frontend - Slot igra
 
 
 ## Tehnologije
@@ -10,8 +10,8 @@
 ## Funkcionalnosti
 
 - **Mreža: 4 stupca x 3 retka (4x3)** 
-- **Isplatne linije: 20 fiksnih isplatnih linija** 
-- **Osnovna igra: Mehanika vrtnje s procjenom pobjede**
+- **Isplatne linije: 20 fiksnih isplatnih linija**
+- **Igra: Mehanika vrtnje s procjenom pobjede**
 
 ## Značajke:
 
@@ -19,4 +19,5 @@
 - **Odabir iznosa klađenja** 
 - **Stanje korisnika**
 - **Glavni izbornik uključujući postavke, informacije o igri i povijest rundi** 
-- **Zvuk i animacije** 
+- **Zvuk i animacije**
+
