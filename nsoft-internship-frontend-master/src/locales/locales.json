@@ -1,0 +1,106 @@
+{
+  "en": {
+    "bet_amount": "Bet amount",
+    "win": "Win",
+    "settings": "Settings",
+    "game_info": "Game info",
+    "sound": "Sound",
+    "paytable": "Paytable",
+    "game_info_paragraphs_pace_and_race": {
+      "game_overview": {
+        "title": "Game Overview",
+        "text": "Pace&Race is a retro-themed slot game inspired by pixel classics. It features a 4x3 reel layout and offers 20 fixed paylines."
+      },
+      "rtp": {
+        "title": "Return to Player (RTP)",
+        "text": "The game has a Return to Player (RTP) rate of 96.56%, which represents the long-term statistical percentage of total stakes that is paid out as winnings over time."
+      },
+      "core_mechanics": {
+        "title": "Core Mechanics",
+        "text": "The game offers core mechanics such as customizable bet options, spin and stop controls and real-time balance tracking."
+      },
+      "special_symbols": {
+        "title": "Special Symbols",
+        "text": "Wild Symbol: Substitutes for regular symbols to help form winning combinations. Bonus Symbol: Triggers the Bonus Game, which includes free spins and Sticky Wilds. The Bonus Game is currently planned as a possible addition in future development stages."
+      },
+      "payline_rules": {
+        "title": "Payline Rules",
+        "text": "Only the highest win per bet line is paid. Bet lines win if winning symbols appear in succession from the leftmost reel to the right. If there are wins on multiple paylines, all win amounts are added together and then added to the player’s balance."
+      }
+    },
+    "game_info_paragraphs_crazy_pirate": {
+      "game_overview": {
+        "title": "Game Overview",
+        "text": "The Crazy Pirate slot game is designed for online casino platforms to provide players with an engaging experience and the opportunity to win through the base game."
+      },
+      "rtp": {
+        "title": "Return to Player (RTP)",
+        "text": "RTP equals 96,56% and represents long-term statistical percentage of total stakes in the game that is paid out as winnings over time."
+      },
+      "core_mechanics": {
+        "title": "Core Mechanics",
+        "text": "The game offers core mechanics such as customizable bet options, spin and stop controls and real-time balance tracking."
+      },
+      "special_symbols": {
+        "title": "Special Symbols",
+        "text": "Wild Symbol: Substitutes for regular symbols to help form winning combinations. Bonus Symbol: Triggers the Bonus Game, which includes free spins and Sticky Wilds. The Bonus Game is currently planned as a possible addition in future development stages."
+      },
+      "payline_rules": {
+        "title": "Payline Rules",
+        "text": "Only the highest win per bet line is paid. Bet lines win if winning symbols appear in succession from the leftmost reel to the right. If there are wins on multiple paylines, all win amounts are added together and then added to the player’s balance."
+      }
+    }
+  },
+  "hr": {
+    "bet_amount": "Ulog",
+    "win": "Pobjeda",
+    "settings": "Postavke",
+    "game_info": "Informacije o igrici",
+    "sound": "Zvuk",
+    "paytable": "Isplatna tablica",
+    "game_info_paragraphs_pace_and_race": {
+      "game_overview": {
+        "title": "Pregled igre",
+        "text": "Pace&Race je retro slot igra inspirirana piksel klasičnim igrama. Igra se odvija na gridu sa 4 kolone i 3 reda, sa 20 fiksnih isplatnih linija."
+      },
+      "rtp": {
+        "title": "Povrat igraču (RTP)",
+        "text": "RTP iznosi 96.56% i predstavlja dugoročnu statističku vrijednost procenta ukupnih uloga koji se kroz vrijeme vraćaju igračima kao dobici."
+      },
+      "core_mechanics": {
+        "title": "Osnovne mehanike",
+        "text": "Igra nudi osnovne mehanike poput prilagodljivih opcija uloga, kontrola za spin i stop, te praćenje stanja balansa u stvarnom vremenu."
+      },
+      "special_symbols": {
+        "title": "Posebni simboli",
+        "text": "Wild simbol: Zamjenjuje obične simbole kako bi pomogao u formiranju dobitnih kombinacija. Bonus simbol: Pokreće Bonus igru koja uključuje besplatne runde i Sticky Wild simbole. Bonus igra je trenutno planirana kao moguća nadogradnja u budućim fazama razvoja."
+      },
+      "payline_rules": {
+        "title": "Pravila dobitnih linija",
+        "text": "Isplaćuje se samo najveći dobitak po dobitnoj liniji. Dobitne linije ostvaruju se ako se dobitni simboli pojave u nizu, počevši od najlijevog bubnja prema desnom. Ako su ostvareni dobitci na više dobitnih linija, svi dobitci se zbrajaju i dodaju na stanje igrača."
+      }
+    },
+    "game_info_paragraphs_crazy_pirate": {
+      "game_overview": {
+        "title": "Pregled igre",
+        "text": "Crazy Pirate slot igra osmišljena je za online casino platforme kako bi igračima pružila uzbudljivo iskustvo i priliku za dobitak kroz osnovnu igru."
+      },
+      "rtp": {
+        "title": "Povrat igraču (RTP)",
+        "text": "RTP iznosi 96.56% i predstavlja dugoročnu statističku vrijednost procenta ukupnih uloga koji se kroz vrijeme vraćaju igračima kao dobici."
+      },
+      "core_mechanics": {
+        "title": "Osnovne mehanike",
+        "text": "Igra nudi osnovne mehanike poput prilagodljivih opcija uloga, kontrola za spin i stop, te praćenje stanja balansa u stvarnom vremenu."
+      },
+      "special_symbols": {
+        "title": "Posebni simboli",
+        "text": "Wild simbol: Zamjenjuje obične simbole kako bi pomogao u formiranju dobitnih kombinacija. Bonus simbol: Pokreće Bonus igru koja uključuje besplatne runde i Sticky Wild simbole. Bonus igra je trenutno planirana kao moguća nadogradnja u budućim fazama razvoja."
+      },
+      "payline_rules": {
+        "title": "Pravila dobitnih linija",
+        "text": "Isplaćuje se samo najveći dobitak po dobitnoj liniji. Dobitne linije ostvaruju se ako se dobitni simboli pojave u nizu, počevši od najlijevog bubnja prema desnom. Ako su ostvareni dobitci na više dobitnih linija, svi dobitci se zbrajaju i dodaju na stanje igrača."
+      }
+    }
+  }
+}

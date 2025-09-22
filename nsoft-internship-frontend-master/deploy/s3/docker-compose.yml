@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  internship_client_minio:
+    image: minio/minio:latest
+    container_name: iternship-client-minio
+    ports:
+      - "9000:9000"   # S3
+      - "9001:9001"   # UI
+    volumes:
+      - minio-data:/data
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD}
+    command: server /data --console-address ":9001"
+    restart: unless-stopped
+
+volumes:
+  minio-data:
